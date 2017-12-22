@@ -1,0 +1,6 @@
+################ ignore stuff and not push things we dont need
+
+.DS_Store
+
+####### can get huge so good to ignore, or things like doc or art, assets folder. only knows new stuff tho
+node_modules
